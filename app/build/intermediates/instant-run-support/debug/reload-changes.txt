@@ -1,0 +1,2 @@
+CHANGED,C:\Users\Vidish\AndroidStudioProjects\Scheduler\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\scheduler\SampleAlarmReceiver$override.class
+CHANGED,C:\Users\Vidish\AndroidStudioProjects\Scheduler\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
